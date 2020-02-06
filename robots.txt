@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohkuhohy.kubasejdak.com/sitemap.xml
